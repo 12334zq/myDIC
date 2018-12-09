@@ -1,2 +1,2 @@
-# hello-world
-My first repository in Git hub.
+# myDIC
+Digital Image Correlation (DIC)
